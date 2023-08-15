@@ -1,0 +1,15 @@
+E:\разработчик GB\c#\homework9\task64\obj\Debug\net6.0\task64.csproj.AssemblyReference.cache
+E:\разработчик GB\c#\homework9\task64\obj\Debug\net6.0\task64.GeneratedMSBuildEditorConfig.editorconfig
+E:\разработчик GB\c#\homework9\task64\obj\Debug\net6.0\task64.AssemblyInfoInputs.cache
+E:\разработчик GB\c#\homework9\task64\obj\Debug\net6.0\task64.AssemblyInfo.cs
+E:\разработчик GB\c#\homework9\task64\obj\Debug\net6.0\task64.csproj.CoreCompileInputs.cache
+E:\разработчик GB\c#\homework9\task64\bin\Debug\net6.0\task64.exe
+E:\разработчик GB\c#\homework9\task64\bin\Debug\net6.0\task64.deps.json
+E:\разработчик GB\c#\homework9\task64\bin\Debug\net6.0\task64.runtimeconfig.json
+E:\разработчик GB\c#\homework9\task64\bin\Debug\net6.0\task64.dll
+E:\разработчик GB\c#\homework9\task64\bin\Debug\net6.0\task64.pdb
+E:\разработчик GB\c#\homework9\task64\obj\Debug\net6.0\task64.dll
+E:\разработчик GB\c#\homework9\task64\obj\Debug\net6.0\refint\task64.dll
+E:\разработчик GB\c#\homework9\task64\obj\Debug\net6.0\task64.pdb
+E:\разработчик GB\c#\homework9\task64\obj\Debug\net6.0\task64.genruntimeconfig.cache
+E:\разработчик GB\c#\homework9\task64\obj\Debug\net6.0\ref\task64.dll
